@@ -1,0 +1,4 @@
+
+Xsquid:S1191"5Use classes from the Java API instead of Sun classes.(ú¸ÿşÿÿÿÿ8ñåÙÍË-
+ksquid:UselessImportCheck";Remove this unused import 'sun.util.calendar.BaseCalendar'.(ú¸ÿşÿÿÿÿ8ñåÙÍË-
+Msquid:S1068"*Remove this unused "weight" private field.(Ïã úûÿÿÿÿ8­´ĞÍË-
