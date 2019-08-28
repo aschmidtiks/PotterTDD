@@ -1,34 +1,8 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-G
-src/main/java/Shop.java,b\7\b78d0fa92ce7088bdbf44f5a364511bbf5f29540
-O
-src/main/java/ShoppingCart.java,3\c\3c365afc4cc0ed2d3f0394b0da3aa13b03b36bfa
-L
-src/main/java/ComicBook.java,9\1\91db2c9cbc349608e7bc01f475cb03b0d7dcb40b
-J
-src/main/java/Shampoo.java,0\f\0f75988f65e5b044a25d200d651a23df640cf18d
-G
-src/main/java/Book.java,4\2\42297ce8fc0b8d7f0f2def38213cbd135c18d8db
-G
-src/main/java/Util.java,a\9\a954b87654d51f49df76c56c3c399ac82d656fd5
-J
-src/main/java/Product.java,5\8\58a621949f467bfa071fb2a1978e3109f325216f
-T
-$src/main/java/ProductRepository.java,7\e\7e91946e642d45938fc65baab3ff804efddac061
-X
-(src/main/java/ProductRepositoryImpl.java,6\7\67ae8c9da8f25e16d0af0f4c0c6f5768bd295107
-R
-"src/main/java/ProductDatabase.java,2\e\2ed3965f3e3f305ae66efdaa2039c242c76980d3
 S
 #src/test/java/TestShoppingCart.java,f\9\f94b263479b4393269c7dcd68059389dde421cae
-G
-src/main/java/Brot.java,f\7\f78347d148317b19981a4a06a16bc8e41cc6d834
-O
-src/main/java/Lebensmittel.java,2\e\2e3e8587bd85e81100f9c38eb21142f36944defb
-I
-src/main/java/Wasser.java,d\5\d576e748f4bf608a703a75a3dca5162bf2324244
 O
 src/test/java/TestDataBase.java,9\c\9c1ea4d761a57533205a32632c6b45b1a7785319
 _
